@@ -1,5 +1,4 @@
-# Covid_19_React
-> Covid 19 is a website that work on real data represents. It maintains a regularly updated database of a variety of types of country-level information related to the outbreak, including counts of the number of positive and negative test results obtained in each state, hospitalization and outcome data for cases, and the racial and ethnic demographic breakdowns of cases and deaths.Table,Graph and Map are also included which make project efficient and simple to see the results.
+Can you guess the words and unlock the levels? Countless puzzles from easy to tricky are waiting for you! New puzzles are added continuously for endless word fun!, No registration, no complicated rules. Just start playing and have fun!, Which word are we looking for? Look at the four pictures; find out what they have in common. Win!
 
 Live on : https://relaxed-golick-cfee8c.netlify.app
 
