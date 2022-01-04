@@ -1,5 +1,5 @@
-##
-Guess_the_Word_Game_React_JS
+# Guess_the_Word_Game_React_JS
+
 
 Can you guess the words and unlock the levels? Countless puzzles from easy to tricky are waiting for you! New puzzles are added continuously for endless word fun!, No registration, no complicated rules. Just start playing and have fun!, Which word are we looking for? Look at the four pictures; find out what they have in common. Win!
 
